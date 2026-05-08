@@ -18,7 +18,7 @@
 ```java
 public class Maycon {
     String cargo     = "Engenheiro de Software";
-    String empresa   = "Itaú Unibanco";
+    String empresa   = "Pic Pay";
     String local     = "Janaúba, MG";
 
     String[] foco    = { "Microsserviços", "APIs REST", "Testes Unitários" };
