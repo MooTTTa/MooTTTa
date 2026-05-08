@@ -55,15 +55,14 @@ public class Maycon {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MooTTTa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooTTTa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MooTTTa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooTTTa&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 
 </div>
 
----
-
 <div align="center">
 
-![Snake animation](https://github.com/MooTTTa/MooTTTa/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MooTTTa&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
